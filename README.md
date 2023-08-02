@@ -25,5 +25,5 @@ https://lu.ma/nlyxus2a
 
 ## cool papers 
 
-https://www.nature.com/articles/s41593-023-01304-9
+- https://www.nature.com/articles/s41593-023-01304-9
 
