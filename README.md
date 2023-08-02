@@ -18,6 +18,7 @@ https://lu.ma/nlyxus2a
 ## cool code
 
 - https://github.com/bbaaii/DreamDiffusion
+- https://github.com/louis030195/neurotech-models
 
 ## cool datasets 
 
